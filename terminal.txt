@@ -1,0 +1,11 @@
+
+
+Para rodar a análise de dados:
+python analise_dados.py
+
+Para gerar o gráfico de temperatura:
+python grafico_temperatura.py
+
+
+Para analisar as vendas:
+python analise_vendas.py
